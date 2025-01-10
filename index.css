@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+input {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-size: 28px;
+}
